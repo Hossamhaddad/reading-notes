@@ -1,3 +1,9 @@
+# Table of content 
+1. [growing mindset](https://hossamhaddad.github.io/reading-notes/)
+2. [Learning Markdown](https://hossamhaddad.github.io/reading-notes/read1)
+
+
+
 # The Growth Mindset
 
 **Growth mindset** believes that the abilities can be developed through effort, perseverance, learning and training, intelligence and talent are good starting 
