@@ -12,4 +12,4 @@ is wrong, we always need to improve and develop our abilities and skills .
 
 
 
-#### My name is Husam Haddad i think if you believe in yourself you can achieve anything.
+#### My name is Husam Haddad and i think if you believe in yourself you can achieve anything.
