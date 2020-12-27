@@ -12,3 +12,4 @@ My name is Hossam Haddad im a 26 years old civil engineeer
 5. [Computers](https://hossamhaddad.github.io/reading-notes/read5)
 6. [Scripts](https://hossamhaddad.github.io/reading-notes/read6)
 7. [Loops](https://hossamhaddad.github.io/reading-notes/read7)
+8. [CSS](https://hossamhaddad.github.io/reading-notes/read8)
