@@ -20,16 +20,22 @@ My name is Hossam Haddad im a 26 years old civil engineeer, these are my reading
 ## **Table of content** 
 1. [HTML and JavaScript](https://hossamhaddad.github.io/201reading-notes/class-01)
 2. [HTML and CSS and Javascript](https://hossamhaddad.github.io/201reading-notes/class-02)
-3. 
-4. 
-5. 
-6. 
-7.  
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
+3. [JavaScript and HTML](https://hossamhaddad.github.io/201reading-notes/class-03)
+4. [JavaScript, CSS AND HTML](https://hossamhaddad.github.io/201reading-notes/class-04)
+5. [HTML and CSS](https://hossamhaddad.github.io/201reading-notes/class-05)
+6. [JavaScript DOM](https://hossamhaddad.github.io/201reading-notes/class-06)
+7. [HTML and JavaScript](https://hossamhaddad.github.io/201reading-notes/class-07)
+8. [HTML and CSS Layout](https://hossamhaddad.github.io/201reading-notes/class-08)
+9. [HTML and Javascript](https://hossamhaddad.github.io/201reading-notes/class-09)
+10. [JavaScript Debugging](https://hossamhaddad.github.io/201reading-notes/class-10)
+11. [HTML Css and JavaScript ](https://hossamhaddad.github.io/201reading-notes/class-11)
+12. [Charts.js and Canvas](https://hossamhaddad.github.io/201reading-notes/class-12)
+13. [Local Storage For Web Applications](https://hossamhaddad.github.io/201reading-notes/class-13)
+14. [What Google Learned ](https://hossamhaddad.github.io/201reading-notes/class-14b)
+15. [CSS](https://hossamhaddad.github.io/201reading-notes/class-14a)
+
+
+
+# CODE 301 Reading Notes 
+## **Table of content** 
+1. 
