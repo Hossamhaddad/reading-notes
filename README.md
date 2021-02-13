@@ -1,10 +1,13 @@
+# Reading Notes
+
+
 # Intro 
 My name is Hossam Haddad im a 26 years old civil engineeer, these are my reading notes ^_^ Feel free to read them .
 
 
 
 
-# CODE 102 Reading Notes 
+# Code 102 - Intro to Software Development
 ##  **Table of content** 
 1. [growing mindset](https://hossamhaddad.github.io/reading-notes/read2)
 2. [Learning Markdown](https://hossamhaddad.github.io/reading-notes/read1)
@@ -16,7 +19,7 @@ My name is Hossam Haddad im a 26 years old civil engineeer, these are my reading
 8. [CSS](https://hossamhaddad.github.io/reading-notes/read8)
 
 
-# CODE 201 Reading Notes 
+# Code 201 - Foundations of Software Development
 ## **Table of content** 
 1. [HTML and JavaScript](https://hossamhaddad.github.io/201reading-notes/class-01)
 2. [HTML and CSS and Javascript](https://hossamhaddad.github.io/201reading-notes/class-02)
@@ -36,6 +39,6 @@ My name is Hossam Haddad im a 26 years old civil engineeer, these are my reading
 
 
 
-# CODE 301 Reading Notes 
+# Code 301 - Intermediate Software Development
 ## **Table of content** 
 1. 
